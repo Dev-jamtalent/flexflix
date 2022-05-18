@@ -163,7 +163,7 @@
                         </ul>
                         
                          
-                        <div class="card component-card_3 side-card">
+                        <div class="card component_card_3_side side-card">
                             <div class="card-body text-center">
                                 
                                 <h5 class="card-user_name text-center">Your Next Step</h5>

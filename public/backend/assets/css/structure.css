@@ -8,6 +8,14 @@
 			@Import	Mixins
 	===============================
 */
+.component_card_3_side {
+    border: none;
+    border-radius: 8px;
+    background: #3b3f5c;
+    /* width: 18rem; */
+    margin: 0 auto;
+    box-shadow: 4px 6px 10px -3px #bfc9d4;
+}
 .side-card{
   background: red;
   border-radius: 5px;
